@@ -1,0 +1,6 @@
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-Entities\bin\Debug\Hands-on3-Entities.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-Entities\bin\Debug\Hands-on3-Entities.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-Entities\obj\Debug\Hands-on3-Entities.csproj.AssemblyReference.cache
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-Entities\obj\Debug\Hands-on3-Entities.csproj.CoreCompileInputs.cache
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-Entities\obj\Debug\Hands-on3-Entities.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-Entities\obj\Debug\Hands-on3-Entities.pdb

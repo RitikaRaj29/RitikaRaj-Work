@@ -1,0 +1,9 @@
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\bin\Debug\Hands-on3-DataAccess.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\bin\Debug\Hands-on3-DataAccess.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\bin\Debug\Hands-on3-Entities.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\bin\Debug\Hands-on3-Entities.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\obj\Debug\Hands-on3-DataAccess.csproj.AssemblyReference.cache
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\obj\Debug\Hands-on3-DataAccess.csproj.CoreCompileInputs.cache
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\obj\Debug\Hands-on3-DataAccess.csproj.CopyComplete
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\obj\Debug\Hands-on3-DataAccess.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3-DataAccess\obj\Debug\Hands-on3-DataAccess.pdb

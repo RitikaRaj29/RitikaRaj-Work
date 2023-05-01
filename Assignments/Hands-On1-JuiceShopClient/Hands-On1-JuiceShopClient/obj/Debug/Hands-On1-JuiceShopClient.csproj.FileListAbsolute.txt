@@ -1,0 +1,7 @@
+C:\Capgemini .NET\Hands-On1-JuiceShopClient\Hands-On1-JuiceShopClient\obj\Debug\Hands-On1-JuiceShopClient.csproj.SuggestedBindingRedirects.cache
+C:\Capgemini .NET\Hands-On1-JuiceShopClient\Hands-On1-JuiceShopClient\obj\Debug\Hands-On1-JuiceShopClient.csproj.CoreCompileInputs.cache
+C:\Capgemini .NET\Hands-On1-JuiceShopClient\Hands-On1-JuiceShopClient\bin\Debug\Hands-On1-JuiceShopClient.exe.config
+C:\Capgemini .NET\Hands-On1-JuiceShopClient\Hands-On1-JuiceShopClient\bin\Debug\Hands-On1-JuiceShopClient.exe
+C:\Capgemini .NET\Hands-On1-JuiceShopClient\Hands-On1-JuiceShopClient\bin\Debug\Hands-On1-JuiceShopClient.pdb
+C:\Capgemini .NET\Hands-On1-JuiceShopClient\Hands-On1-JuiceShopClient\obj\Debug\Hands-On1-JuiceShopClient.exe
+C:\Capgemini .NET\Hands-On1-JuiceShopClient\Hands-On1-JuiceShopClient\obj\Debug\Hands-On1-JuiceShopClient.pdb

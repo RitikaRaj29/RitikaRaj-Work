@@ -1,0 +1,15 @@
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3_LibraryManagementSystem.exe.config
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3_LibraryManagementSystem.exe
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3_LibraryManagementSystem.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3-Business.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3-DataAccess.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3-Entities.dll
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3-Business.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3-DataAccess.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\bin\Debug\Hands-on3-Entities.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\obj\Debug\Hands-on3_LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\obj\Debug\Hands-on3_LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\obj\Debug\Hands-on3_LibraryManagementSystem.csproj.CopyComplete
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\obj\Debug\Hands-on3_LibraryManagementSystem.exe
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\obj\Debug\Hands-on3_LibraryManagementSystem.pdb
+C:\Capgemini .NET\Hands-on3-LibraryManagementSystem\Hands-on3_LibraryManagementSystem\obj\Debug\Hands-on3_LibraryManagementSystem.csproj.AssemblyReference.cache
