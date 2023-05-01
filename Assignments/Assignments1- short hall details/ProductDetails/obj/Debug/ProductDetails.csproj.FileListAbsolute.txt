@@ -1,0 +1,7 @@
+D:\capgeminiDotnet\Assignments1\ProductDetails\bin\Debug\ProductDetails.exe.config
+D:\capgeminiDotnet\Assignments1\ProductDetails\bin\Debug\ProductDetails.exe
+D:\capgeminiDotnet\Assignments1\ProductDetails\bin\Debug\ProductDetails.pdb
+D:\capgeminiDotnet\Assignments1\ProductDetails\obj\Debug\ProductDetails.csproj.SuggestedBindingRedirects.cache
+D:\capgeminiDotnet\Assignments1\ProductDetails\obj\Debug\ProductDetails.csproj.CoreCompileInputs.cache
+D:\capgeminiDotnet\Assignments1\ProductDetails\obj\Debug\ProductDetails.exe
+D:\capgeminiDotnet\Assignments1\ProductDetails\obj\Debug\ProductDetails.pdb

@@ -1,0 +1,8 @@
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\bin\Debug\Dictionary_assignment.exe.config
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\bin\Debug\Dictionary_assignment.exe
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\bin\Debug\Dictionary_assignment.pdb
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\obj\Debug\Dictionary_assignment.csproj.AssemblyReference.cache
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\obj\Debug\Dictionary_assignment.csproj.SuggestedBindingRedirects.cache
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\obj\Debug\Dictionary_assignment.csproj.CoreCompileInputs.cache
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\obj\Debug\Dictionary_assignment.exe
+D:\capgeminiDotnet\Assignments1\Dictionary_assignment\obj\Debug\Dictionary_assignment.pdb

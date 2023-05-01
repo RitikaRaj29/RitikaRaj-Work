@@ -1,0 +1,8 @@
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\obj\Debug\day7AbstractClass.csproj.AssemblyReference.cache
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\obj\Debug\day7AbstractClass.csproj.SuggestedBindingRedirects.cache
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\obj\Debug\day7AbstractClass.csproj.CoreCompileInputs.cache
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\bin\Debug\day7AbstractClass.exe.config
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\bin\Debug\day7AbstractClass.exe
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\bin\Debug\day7AbstractClass.pdb
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\obj\Debug\day7AbstractClass.exe
+D:\capgeminiDotnet\Assignments1\day7AbstractClass\obj\Debug\day7AbstractClass.pdb

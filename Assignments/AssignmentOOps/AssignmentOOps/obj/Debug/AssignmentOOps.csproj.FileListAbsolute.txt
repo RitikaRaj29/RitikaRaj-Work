@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\bin\Debug\AssignmentOOps.exe.config
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\bin\Debug\AssignmentOOps.exe
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\bin\Debug\AssignmentOOps.pdb
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\obj\Debug\AssignmentOOps.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\obj\Debug\AssignmentOOps.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\obj\Debug\AssignmentOOps.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\obj\Debug\AssignmentOOps.exe
+C:\Users\KIIT\Desktop\Capg\AssignmentOOps\AssignmentOOps\obj\Debug\AssignmentOOps.pdb

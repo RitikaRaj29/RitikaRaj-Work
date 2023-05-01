@@ -1,0 +1,8 @@
+D:\capgeminiDotnet\Assignments1\SortHallDetails\bin\Debug\SortHallDetails.exe.config
+D:\capgeminiDotnet\Assignments1\SortHallDetails\bin\Debug\SortHallDetails.exe
+D:\capgeminiDotnet\Assignments1\SortHallDetails\bin\Debug\SortHallDetails.pdb
+D:\capgeminiDotnet\Assignments1\SortHallDetails\obj\Debug\SortHallDetails.csproj.AssemblyReference.cache
+D:\capgeminiDotnet\Assignments1\SortHallDetails\obj\Debug\SortHallDetails.csproj.SuggestedBindingRedirects.cache
+D:\capgeminiDotnet\Assignments1\SortHallDetails\obj\Debug\SortHallDetails.csproj.CoreCompileInputs.cache
+D:\capgeminiDotnet\Assignments1\SortHallDetails\obj\Debug\SortHallDetails.exe
+D:\capgeminiDotnet\Assignments1\SortHallDetails\obj\Debug\SortHallDetails.pdb
